@@ -1,0 +1,86 @@
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f0f0f0; /* Light grey background */
+    color: #1e5f74; /* Vintage blue text */
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #1e5f74;
+    padding: 1em 0;
+}
+
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+nav a {
+    text-decoration: none;
+    color: #ffffff; /* White text */
+    padding: 1em;
+}
+
+main {
+    padding: 2em;
+}
+
+.centered {
+    text-align: center;
+}
+
+.contact-links {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 1em;
+}
+
+.contact-links a {
+    text-decoration: none;
+    color: #1e5f74;
+    border: 1px solid #1e5f74;
+    padding: 0.5em;
+    border-radius: 5px;
+    transition: background-color 0.3s ease;
+}
+
+.contact-links a:hover {
+    background-color: #1e5f74;
+    color: #ffffff;
+}
+
+.project {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-bottom: 20px; /* Adjust the margin as needed */
+}
+
+.project img {
+    width: 200px; /* Adjust the width as needed */
+    margin-bottom: 10px; /* Adjust the margin as needed */
+}
+
+.photo-gallery {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.photo-gallery img {
+    width: 100px; /* Adjust the width as needed */
+    margin: 0 5px; /* Adjust the margin as needed */
+}
+
+footer {
+    background-color: #1e5f74;
+    color: #ffffff;
+    text-align: center;
+    padding: 1em 0;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
