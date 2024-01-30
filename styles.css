@@ -14,7 +14,7 @@ header {
 nav ul {
     list-style-type: none;
     margin: 0;
-    padding: 0;
+    padding: 2em;
     text-align: center;
 }
 
@@ -30,6 +30,11 @@ main {
 
 .centered {
     text-align: center;
+}
+
+.centered img {
+    width: 30%;
+    height: 30%;
 }
 
 .contact-links {
@@ -80,7 +85,6 @@ footer {
     color: #ffffff;
     text-align: center;
     padding: 1em 0;
-    position: fixed;
     bottom: 0;
     width: 100%;
 }
