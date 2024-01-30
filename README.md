@@ -41,9 +41,10 @@ To view the portfolio, simply open the HTML file in your preferred web browser.
 ## Contact
 
 Connect with me on:
-- [Gmail](mailto:your.email@gmail.com)
-- [Instagram](https://www.instagram.com/your_username/)
-- [Twitter](https://twitter.com/your_username/)
+- [Gmail](mailto:ezzatabed.31@gmail.com">Gmail)
+- [Instagram](https://www.instagram.com/ezzatabed/)
+- [Twitter](https://twitter.com/EZ_coding)
+  
 
 Feel free to reach out and explore my projects!
 
